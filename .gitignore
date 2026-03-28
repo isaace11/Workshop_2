@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+emg_data.csv
+data_procesada/
